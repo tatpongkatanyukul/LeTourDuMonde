@@ -1,4 +1,12 @@
-# Around the World of Python Programming in 80+ Exercises
+# Around the World of Compuation in in 80+ Python Programs
+
+---
+# Title
+
+* ท่องรอบโลกการคำนวณใน 80+ ไพธอนโปรแกรม
+* Around the World of Computation in 80+ Python Programs
+
+ปล 80+ จำนวนโปรแกรมนะครับ ไม่ได้จำกัดอายุคนอ่าน
 
 Status: under preparation! (Started project in Apr 2023)
 
