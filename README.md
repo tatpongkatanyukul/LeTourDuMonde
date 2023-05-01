@@ -48,3 +48,22 @@ Expected to finish: I don't know, before I retire! (I hope.)
 * [Solutions](https://github.com/tatpongkatanyukul/LeTourDuMonde/tree/main/code)
 * Errata
 
+---
+
+# Resources
+
+* Filenaming convention
+  * Since there will be a lot of resource files, e.g., codes, figures, data, it may be easier to establish a convention for filenames.
+    1. Some files I have uploaded before this convention.
+    2. Some I may forget (or be too lazy) to do it.
+  * It's better to have a prefix then ```{prefix}_{title}```
+    * Title can be anything, meaningful if possible.
+    * Prefix
+      * ```ee{c}```: electricity and electromagnetism
+      * ```en{c}```: engineering (outside traditional ee)
+      * ```sh{c}```: short / miscellaneous / wider topic (outside traditional en or ee)      
+      * ```{c}```: course code: since all problems I'll take them from course exercises/homeworks, I can add this so that it helps me trace it.
+        * ```{c}```: ```lca``` or ```lca{y}{L}{P}```, e.g., ```lca2022L01P8``` for P8 of Lab01 for lca class of 2022.
+        * Similarly, ```iml```, ```ann```, ```ai```, or ```book``` for a problem written particularly for the book
+    * Example, ```eelca2024L3P12_circularloop.png```
+        
