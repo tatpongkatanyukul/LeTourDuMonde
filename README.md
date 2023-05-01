@@ -52,7 +52,7 @@ Expected to finish: I don't know, before I retire! (I hope.)
 
 # Resources
 
-* Filenaming convention
+* Filenaming convention (2023, May 1)
   * Since there will be a lot of resource files, e.g., codes, figures, data, it may be easier to establish a convention for filenames.
     1. Some files I have uploaded before this convention.
     2. Some I may forget (or be too lazy) to do it.
