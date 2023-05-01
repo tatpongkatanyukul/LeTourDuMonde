@@ -63,5 +63,6 @@ Expected to finish: I don't know, before I retire! (I hope.)
         * 1: demanding
         * 2: super-demanding
       * Last 2 digits: problem ids
+      * Example: ```P09112``` is intended for Chapter 9 (Wide Wild World); it is quite demanding/difficult; ```12``` is its id (P12 in LCA 2024, ProgramHW03)
     
     
