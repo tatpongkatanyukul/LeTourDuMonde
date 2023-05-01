@@ -58,11 +58,10 @@ Expected to finish: I don't know, before I retire! (I hope.)
     * Fancy naming convention may filename ugly. Stick to number
     * Code: ```P#####```
       * First 2 digits: potential chapter
-      * The 3rd digits: ~~original course~~ difficulty level
-        * 0: ok
-        * 1: demanding
-        * 2: super-demanding
+      * The 3rd digits: ~~original course~~ ~~difficulty level~~ series indicator
+        * 0: no series
+        * 1-9: series
       * Last 2 digits: problem ids
-      * Example: ```P09112``` is intended for Chapter 9 (Wide Wild World); it is quite demanding/difficult; ```12``` is its id (P12 in LCA 2024, ProgramHW03)
-    
+      * Example: ```P09112``` is intended for Chapter 9 (Wide Wild World);
+        * it is in series 1, same series as ```P09109``` (numerical integration), ```P09110``` (current loop), ```P09111``` (solenoid), and ```P09112``` (emf from solenoid).    
     
