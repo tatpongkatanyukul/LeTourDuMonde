@@ -2,7 +2,7 @@
 
 # Short description
 
-A ~~~dual-language~~~ book for curiosity and spirit of adventures.
+A ~~dual-language~~ book for curiosity and spirit of adventures.
 
 (Sep 1, 2023: Dual-language is too much work. It's discouraging me. I'll do the English version first, then if I still have fuel, I'll do the thai and then make it dual language!)
 
