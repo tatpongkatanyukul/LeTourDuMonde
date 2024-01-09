@@ -6,3 +6,4 @@ Trefethen and Bau
 # Lecture 3
 
 > the induced matrix norm $\lVert A x \rVert_{(m,n)}$ is the smallest number $C$ for which the following inequality holds for all $x \in \mathbb{C}^n$:
+> $\lVert A x \rVert_{(m)} \leq C \lVert x \rVert_{(n)}$ .
